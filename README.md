@@ -12,6 +12,8 @@ cp .env.example .env
 - install packages 
 ```
 composer install
+```
+```
 npm install && npm run dev
 ```
 - running aplikasi
